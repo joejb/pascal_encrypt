@@ -1,3 +1,5 @@
+progam Encrypt;
+
 uses
   dcpcrypt2, Math;
  
