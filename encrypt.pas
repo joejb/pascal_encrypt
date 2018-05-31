@@ -1,4 +1,4 @@
-ses
+uses
   dcpcrypt2, Math;
  
 function RPad(x: string; c: Char; s: Integer): string;
